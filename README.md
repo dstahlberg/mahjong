@@ -5,7 +5,7 @@ Här finns dokument och material om Mahjong, baserat på de internationella täv
 Detta är en översikt över de 81 poängmönster som finns i Mahjong. Den är _avsedd för nybörjare_ som
 behöver förstå vad en regel innebär och passar kanske inte för den fullärde som vill veta
 alla detaljer i en regel. Alla översikter är en balansgång mellan pedagogik och
-hur komplett man ska vara, och denna lutar åt det pedagogiska hållet.
+hur komplett man ska vara, och denna översikt lutar åt det pedagogiska hållet.
 All information är korrekt men reglerna är inte kompletta; av utrymmesskäl
 ingår t ex inte information om vilka poängmönster som får kombineras eller vilka som hindras.
 
