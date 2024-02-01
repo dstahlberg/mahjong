@@ -9,6 +9,8 @@ hur komplett man ska vara, och denna översikt lutar åt det pedagogiska hållet
 All information är korrekt men reglerna är inte kompletta; av utrymmesskäl
 ingår t ex inte information om vilka poängmönster som får kombineras eller vilka som hindras.
 
+I katalogen "source" finns LibreCalc-dokumentet som är original för att producera de andra dokumenten (PDF, xlsx), samt grafiska komponenter.
+
 Översikten bygger på en förlaga från [Mahjong Denmark](https://mahjong.dk) och är baserat
 på [**"Mahjong Competition Rules, Second Edition, December 2014"**](http://www.mindmahjong.com/adobe/20140411MCREnglish.pdf)
 från World Mahjong Organisation (WMO).
@@ -19,4 +21,3 @@ använda, kopiera, ändra och distribuera materialet förutsatt att du anger kä
 Copyright CC BY-SA 4.0 International https://creativecommons.org/licenses/by-sa/4.0
 
 by Dan Ståhlberg, mahjongihaninge@gmail.com
-
