@@ -1,7 +1,7 @@
 # mahjong
 Här finns dokument och material om Mahjong, baserat på de internationella tävlingsreglerna **Mahjong Competition Rules (MCR)**.
 
-## Översikt poängmönster (poangoversikt.pdf)
+## Översikt poängmönster (poangoversiktA4.pdf)
 Detta är en översikt över de 81 poängmönster som finns i Mahjong. Den är _avsedd för nybörjare_ som
 behöver förstå vad en regel innebär och passar kanske inte för den fullärde som vill veta
 alla detaljer i en regel. Alla översikter är en balansgång mellan pedagogik och
